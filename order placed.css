@@ -1,0 +1,30 @@
+body{
+  background-image: url(./image\ 12.jpg);
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+.btn-back{
+        background-color: #4caf50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+        float:right;
+      }
+      
+      .btn-back:hover {
+        background-color: #45a049;
+      }
